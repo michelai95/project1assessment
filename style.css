@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+.adding {
+    display: flex;
+    justify-content: center;
+    font-size: 150px;
+    margin-top: 150px;
+}
+ button {
+     padding: 25px;
+     border-radius: 12px;
+     transition-duration: 0.4s;
+     background-color: grey;
+     font-size: 45px;
+     color: white;
+     width: 125px;
+     margin: 12px;
+ }
+ button:hover {
+     background-color: lightgray;
+     color: white;
+ }
+ #submit {
+     border-radius: 12px;
+     width: 200px;
+     text-align: center;
+     font-size: 30px;
+     border-width: 5px;
+ }
+#count {
+font-size: 75px;
+}
+.red {
+    color: red;
+}
