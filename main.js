@@ -25,3 +25,16 @@ subtraction.addEventListener('click', function() {
 // I tried messing around with increments and decrements
 // tried to replace 1 with i and set it's value to 0, didn't have any luck! 
 // also tried to include a for loop, which wasn't rendering anything 
+
+
+/*----JQuery-----*/
+// $('#addition').addEventListener('click', () => {
+//     i += parseInt(input.value);
+//     $('#count').textContent = i;
+//     $('#count').classList.remove('red')
+// })
+
+// $('#subtraction').addEventListener('click', () => {
+//     $('#count').textContent = i; 
+//     $('#count').classList.add('red')
+// })
